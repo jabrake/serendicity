@@ -16,7 +16,7 @@ body {
     background-color: #1abc9c;
 }
 
-.body_class {
+.body_text {
 	font-size: 1.5em;
-
+	color: white;
 }
