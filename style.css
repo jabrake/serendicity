@@ -26,9 +26,9 @@ h2 {
 	font-size: 4em;
 }
 
-img {
-	width: 50%;
+#mockup {
 	height: 50%;
+	width: auto;
 }
 
 .body_text {
