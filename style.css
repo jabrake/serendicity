@@ -16,11 +16,17 @@ body {
     background-color: #1abc9c;
 }
 
-h1, h2 {
+h1 {
 	color: white;
+	font-size: 5em;
+}
+
+h2 {
+	color: white;
+	font-size: 4em;
 }
 
 .body_text {
-	font-size: 1.3em;
+	font-size: 1.2em;
 	color: white;
 }
