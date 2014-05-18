@@ -53,16 +53,16 @@ h2 {
 }
 
 #section2 {
-	position: relative;
+	position: absolute;
 	width: 50%;
 	height: auto;
 }
 
 #background2 {
-	position: relative;
+	position: absolute;
 	height: 100%;
 	width: auto;
-	margin: 0;
+	margin: 100% 0 0 0;
 }
 
 .body_text {
