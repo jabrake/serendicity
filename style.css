@@ -27,8 +27,10 @@ h2 {
 }
 
 #mockup {
-	height: 50%;
+	height: 75%;
 	width: auto;
+	position: absolute;
+	margin-right: 0;
 }
 
 .body_text {
