@@ -35,7 +35,7 @@ h2 {
 	height: 75%;
 	width: auto;
 	position: absolute;
-	margin-left: 60%;
+	margin-left: 50%;
 	margin-top: 5%;
 }
 
@@ -47,6 +47,19 @@ h2 {
 
 #background1 {
 	position: absolute;
+	height: 100%;
+	width: auto;
+	margin: 0;
+}
+
+#section2 {
+	position: relative;
+	width: 50%;
+	height: auto;
+}
+
+#background1 {
+	position: relative;
 	height: 100%;
 	width: auto;
 	margin: 0;
