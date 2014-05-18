@@ -46,7 +46,15 @@ h2 {
 	height: 90vh;
 	width: auto;
 	position: absolute;
-	margin: 130vh 0 0 120vh;
+	margin: 130vh 0 0 65vw;
+	z-index: 2;
+}
+
+#mockup2 {
+	height: 90vh;
+	width: auto;
+	position: absolute;
+	margin: -105vh 0 0 66vw;
 	z-index: 2;
 }
 
@@ -70,11 +78,11 @@ h2 {
 }
 
 #text3 {
-	margin: -65vh 0 0 48vw;
+	margin: -65vh 0 0 0;
 }
 
 #heading3 {
-	margin: -100vh 0 0 61.08vw;
+	margin: -100vh 0 0 0;
 }
 
 #text4 {
