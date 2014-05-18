@@ -85,26 +85,26 @@ h2 {
 	margin: -130vh 0 0 0;
 }
 
-#section2, #section3, #section4 {
+#section2 {
 	position: relative;
 	height: 100vh;
 	width: auto;
 	margin: 12.9vh 0 0 0;
 }
 
-/*#section3 {
+#section3 {
 	position: relative;
 	height: 100vh;
 	width: auto;
-	margin: 12.9vh 0 0 0;
+	margin: 13vh 0 0 0;
 }
 
 #section4 {
 	position: relative;
 	height: 100vh;
 	width: auto;
-	margin: 0;
-}*/
+	margin: 0.5;
+}
 
 #background1 {
 	position: absolute;
