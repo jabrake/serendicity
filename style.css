@@ -96,7 +96,7 @@ h2 {
 	position: relative;
 	height: 100vh;
 	width: auto;
-	margin: 12.6% 0 0 0;
+	margin: 20.8vh 0 0 0;
 }
 
 #section4 {
@@ -108,7 +108,7 @@ h2 {
 
 #background1 {
 	position: absolute;
-	height: 100%;
+	height: 100vh;
 	width: auto;
 	margin: 0;
 	z-index: 1;
@@ -116,7 +116,7 @@ h2 {
 
 #background2 #background3 #background4 {
 	position: relative;
-	height: 100%;
+	height: 100vh;
 	width: auto;
 	margin: 0;
 	z-index: 1;
