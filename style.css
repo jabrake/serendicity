@@ -26,6 +26,11 @@ h2 {
 	font-size: 4em;
 }
 
+img {
+	width: 50%;
+	height: 50%;
+}
+
 .body_text {
 	font-size: 2em;
 	color: white;
