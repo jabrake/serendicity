@@ -130,7 +130,11 @@ h2 {
 	margin: -85vh 0 0 0;
 }
 
-#text3, #text4 {
+#text3 {
+	margin: -65vh 0 0 0;
+}
+
+#text4 {
 	margin: -55vh 0 0 0;
 }
 
